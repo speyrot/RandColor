@@ -36,3 +36,10 @@ a {
     padding: 2%;
     border-style: solid;
 }
+.secondaryTitle {
+    border-radius: 20px;
+    background-color: antiquewhite;
+    margin-inline: 20%;
+    padding: 2%;
+    border-style: solid;
+}
